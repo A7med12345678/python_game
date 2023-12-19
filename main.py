@@ -22,7 +22,6 @@ main_window.register_shape('ice.gif')
 main_window.register_shape('fire.gif')
 main_window.register_shape('life.gif')
 main_window.register_shape('man.gif')
-main_window.register_shape('right.gif')
 
 # pause label :
 paused_label = turtle.Turtle()
